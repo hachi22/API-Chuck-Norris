@@ -1,0 +1,13 @@
+  #data {
+    width: 700px;
+    border: 1px dashed black;
+    font-size: 30px;
+    text-align: center;  
+  }
+
+  .container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+  }
